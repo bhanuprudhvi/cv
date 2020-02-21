@@ -1,0 +1,23 @@
+body {
+  background-image:url("../238784.jpg");
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+h1
+{
+  color:red;
+  text-align: center;
+}
+p1
+{
+  color:blue;
+  font-size: 20px;
+}
+p2
+{
+  color:green;
+  font-size: 20px;
+}
